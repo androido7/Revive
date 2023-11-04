@@ -11,6 +11,8 @@ Manage your classic game backups and launch them with your favorite emulators!
 
 This app was written in c# and designed using Figma.
 
+[Download](https://github.com/androido7/Revive/releases/)
+
 [License](LICENSE)
 
 ## About Developer
