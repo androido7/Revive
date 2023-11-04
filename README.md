@@ -1,9 +1,9 @@
 # Revive: Game Manager
 by [Andrew Busch](https://www.twitter.com/androido7)
 
-<img src="/Preview/Home.webp"  width="494"/>
+<img src="/Preview/Home.webp"  width="694"/>
 
-<img src="/Preview/Console.webp" width="120" />   <img src="/Preview/Game.webp" width="120"/>  <img src="/Preview/Settings.webp" width="120"/>  <img src="/Preview/Tags.webp" width="120"/>
+<img src="/Icon.png" height="96" /> <img src="/Preview/Console.webp" height="96"/> <img src="/Preview/Game.webp" height="96"/> <img src="/Preview/Settings.webp" height="96"/> <img src="/Preview/Tags.webp" height="96"/>
 
 ## About App
 
