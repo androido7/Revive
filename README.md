@@ -21,6 +21,8 @@ This app was written in C#, built in visual studio, and designed using Figma.
 
 [Download Page](https://github.com/androido7/Revive/releases/)
 
+[Changelog](/Changelog)
+
 [License](LICENSE)
 
 ### Features
