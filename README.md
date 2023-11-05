@@ -42,6 +42,7 @@ This app was written in C#, built in visual studio, and designed using Figma.
    - [ ] Group games
    - [ ] Better ROM scanning
    - [ ] Import playlist for other apps
+   - [ ] Support other languages
 
 
 ## About Developer
