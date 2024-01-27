@@ -1,2 +1,20 @@
-v0.8.2-beta  (Nov 4th 2023) 
+v0.8.2.4-beta  (Jan 27th 2024)
+    [ IMPROVEMENTS ]
+
+    Moved logs location from /log.txt to /Docs/Logs.txt
+    Added Changelog.txt
+    Added License.txt
+    Mulitlingual support started (es-MX, partial)
+    Better N64 rom detection
+    Better NDS rom detection
+    Fixed SNES rom detection
+    Cosmetic tweaks in settings
+    Window will remember Maximized state
+
+    [ KNOWN BUGS ]
+
+    Duplicate entries when importing a large amount of games
+
+
+v0.8.2.2-beta  (Nov 4th 2023) 
     Initial release
